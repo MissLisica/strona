@@ -1,0 +1,2 @@
+# strona
+ex www
